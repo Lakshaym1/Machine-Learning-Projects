@@ -1,0 +1,20 @@
+This project aims to forecast weekly sales for Walmart stores using historical sales data. It involves data cleaning, exploratory data analysis, feature engineering, and implementing time series and regression models to predict sales more accurately.
+
+🔧 Key Tools & Techniques:
+
+Python (pandas, matplotlib, seaborn)
+
+Time Series Analysis
+
+Linear Regression
+
+Data Visualization
+
+📁 Project Highlights:
+
+Analyzed trends, seasonality, and holiday impacts
+
+Built models to predict future weekly sales
+
+Visualized store-level performance and anomalies
+
