@@ -1,1 +1,19 @@
+Developed a recommendation system using the Netflix Prize dataset with Singular Value Decomposition (SVD). The model provides personalized movie recommendations based on user rating patterns.
 
+🔧 Key Tools & Techniques:
+
+Python (NumPy, pandas, scikit-learn, surprise)
+
+SVD (Singular Value Decomposition)
+
+Data Preprocessing
+
+Collaborative Filtering
+
+📁 Project Highlights:
+
+Processed large-scale movie rating datasets
+
+Built a scalable, efficient SVD model
+
+Evaluated performance using RMSE
